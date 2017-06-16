@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 /**
  * https://www.hackerrank.com/challenges/plus-minus?h_r=next-challenge&h_v=zen
